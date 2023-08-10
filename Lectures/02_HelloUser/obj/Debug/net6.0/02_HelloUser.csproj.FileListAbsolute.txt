@@ -1,0 +1,15 @@
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/bin/Debug/net6.0/02_HelloUser
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/bin/Debug/net6.0/02_HelloUser.deps.json
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/bin/Debug/net6.0/02_HelloUser.runtimeconfig.json
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/bin/Debug/net6.0/02_HelloUser.dll
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/bin/Debug/net6.0/02_HelloUser.pdb
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.csproj.AssemblyReference.cache
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.AssemblyInfoInputs.cache
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.AssemblyInfo.cs
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.csproj.CoreCompileInputs.cache
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.dll
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/refint/02_HelloUser.dll
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.pdb
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/02_HelloUser.genruntimeconfig.cache
+/Users/kyzlt/Documents/GB/C_Sharp/Lectures/02_HelloUser/obj/Debug/net6.0/ref/02_HelloUser.dll
